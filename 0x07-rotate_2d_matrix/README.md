@@ -27,7 +27,7 @@
     - You can assume the matrix will have 2 dimensions and will not be empty.
 
 ```
-abinet$ cat main_0.py
+richard$ cat main_0.py
 #!/usr/bin/python3
 """
 Test 0x07 - Rotate 2D Matrix
@@ -42,12 +42,12 @@ if __name__ == "__main__":
     rotate_2d_matrix(matrix)
     print(matrix)
 
-abinet$
-abinet$ ./main_0.py
+richard$
+richard$ ./main_0.py
 [[7, 4, 1],
 [8, 5, 2],
 [9, 6, 3]]
-abinet$
+richard$
 
 ```
 
@@ -56,7 +56,7 @@ abinet$
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
-Author: [Abinet Tesfu](https://www.linkedin.com/in/abinet-tesfu-99a431185/)
+Author: [Richard Frimpong](https://www.github.com/Richiealx)
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
